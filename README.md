@@ -1,4 +1,5 @@
-###疫情出入管理
+
+### 疫情出入管理
 ===============================
 
 苟利国家生死以，岂因祸福避趋之，做了一些微小的工作，很惭愧
@@ -13,11 +14,12 @@
 
 ### Contributor
 
-下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
+参与的小伙伴们
 
 <a href="https://github.com/gsalpha">
     <img alt="" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars2.githubusercontent.com/u/21122282?s=460&amp;v=4">
 </a>
+
 
 ### 联系我
     个人微信账号：O_Bin_Laden
