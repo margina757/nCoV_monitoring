@@ -11,11 +11,22 @@
     **如果发生疫情，可在后台进行搜索排查用户出入信息，为疫情管控提供及时可靠的帮助**
 
 
-# Add new contributor <yuzhe5671@gmail.com>, who made a contribution of type <contribution>
-all-contributors add <yuzhe5671@gmail.com> <contribution>
-# Example:
-all-contributors add jfmengels code,doc
-    
+
+### 联系我
+O_Bin_Laden
+
+![个人微信](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/wechat3.jpeg)
+
+### Contributor
+
+下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
+
+<a href="https://github.com/gsalpha">
+    <img alt="" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars2.githubusercontent.com/u/21122282?s=460&amp;v=4">
+</a>
+
+
+
 INIT
 -------------------
 
