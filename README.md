@@ -1,4 +1,4 @@
-疫情出入管理
+###疫情出入管理
 ===============================
 
 苟利国家生死以，岂因祸福避趋之，做了一些微小的工作，很惭愧
@@ -11,12 +11,6 @@
     **如果发生疫情，可在后台进行搜索排查用户出入信息，为疫情管控提供及时可靠的帮助**
 
 
-
-### 联系我
-O_Bin_Laden
-
-![个人微信](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/wechat3.jpeg)
-
 ### Contributor
 
 下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
@@ -25,50 +19,5 @@ O_Bin_Laden
     <img alt="" width="260" height="260" class="avatar width-full height-full avatar-before-user-status" src="https://avatars2.githubusercontent.com/u/21122282?s=460&amp;v=4">
 </a>
 
-
-
-INIT
--------------------
-
-```
-/path/to/php-bin/php /path/to/yii2-admin/init  --env=Development --overwrite=All
-```
-
-DIRECTORY STRUCTURE
--------------------
-
-```
-common
-    config/              contains shared configurations
-    mail/                contains view files for e-mails
-    models/              contains model classes used in both backend and frontend
-    tests/               contains tests for common classes    
-console
-    config/              contains console configurations
-    controllers/         contains console controllers (commands)
-    migrations/          contains database migrations
-    models/              contains console-specific model classes
-    runtime/             contains files generated during runtime
-backend
-    assets/              contains application assets such as JavaScript and CSS
-    config/              contains backend configurations
-    controllers/         contains Web controller classes
-    models/              contains backend-specific model classes
-    runtime/             contains files generated during runtime
-    tests/               contains tests for backend application    
-    views/               contains view files for the Web application
-    web/                 contains the entry script and Web resources
-frontend
-    assets/              contains application assets such as JavaScript and CSS
-    config/              contains net_bar configurations
-    controllers/         contains Web controller classes
-    models/              contains fronent-specific model classes
-    runtime/             contains files generated during runtime
-    tests/               contains tests for frontend application
-    views/               contains view files for the Web application
-    web/                 contains the entry script and Web resources
-    widgets/             contains frontend widgets
-environments/            contains environment-based overrides
-```
-
-
+### 联系我
+    个人微信账号：O_Bin_Laden
