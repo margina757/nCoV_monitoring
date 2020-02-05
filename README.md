@@ -10,6 +10,12 @@
     后台打开疫情出入统计后台，查看各个地区的出入登记情况，同时可以添加修改地区（小区|酒店|村）
     **如果发生疫情，可在后台进行搜索排查用户出入信息，为疫情管控提供及时可靠的帮助**
 
+
+# Add new contributor <yuzhe5671@gmail.com>, who made a contribution of type <contribution>
+all-contributors add <yuzhe5671@gmail.com> <contribution>
+# Example:
+all-contributors add jfmengels code,doc
+    
 INIT
 -------------------
 
