@@ -11,14 +11,27 @@
     
 #### 部署:
      获取代码: git clone https://github.com/margina757/nCoV_monitoring  
-     composer 安装依赖
-     参考env_example 配置数据库地址
-     php init 初始化 选择生产环境
-     php yii migrate 生成数据表
-     使用nginx 或者 apache 配置域名 以及指向对应入口文件
-     前台frontend/web/index.php 
-     后台backend/web/index.php
-     后台默认登录用户
+     1.
+        composer 安装依赖
+     2.
+        参考env_example 配置数据库地址
+     3.
+        php init 初始化 选择生产环境
+     4.
+        php yii migrate 生成数据表
+     5.
+        使用nginx 或者 apache 配置域名 以及指向对应入口文件
+     可以前后台分为两个二级域名处理
+     示例：
+        前台
+            xxx.xxx.com
+            对应目录指向  frontend/web 
+        后台
+            xxx-admin.xxx.com
+            对应目录指向  backend/web
+            
+     6.
+        后台默认登录用户
         用户名：system@admin.com
         初始密码为数据库密码
 ## Contributor
