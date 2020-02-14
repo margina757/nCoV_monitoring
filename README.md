@@ -27,9 +27,11 @@
         前台
             xxx.xxx.com
             对应目录指向  frontend/web 
+            默认入口index index.html
         后台
             xxx-admin.xxx.com
             对应目录指向  backend/web
+            默认入口 index index.php
         apache 配置    
             <VirtualHost *:80>
                 ServerName rbac.yii.local.com
